@@ -1,0 +1,5 @@
+D:\Projects\Homework-Operators\Problem No.4 Point within a circle\bin\Debug\Problem No.4 Point within a circle.exe.config
+D:\Projects\Homework-Operators\Problem No.4 Point within a circle\bin\Debug\Problem No.4 Point within a circle.exe
+D:\Projects\Homework-Operators\Problem No.4 Point within a circle\bin\Debug\Problem No.4 Point within a circle.pdb
+D:\Projects\Homework-Operators\Problem No.4 Point within a circle\obj\Debug\Problem No.4 Point within a circle.exe
+D:\Projects\Homework-Operators\Problem No.4 Point within a circle\obj\Debug\Problem No.4 Point within a circle.pdb

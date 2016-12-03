@@ -1,0 +1,5 @@
+D:\Projects\Homework-Operators\Problem No.2 Third digit\bin\Debug\Problem No.2 Third digit.exe.config
+D:\Projects\Homework-Operators\Problem No.2 Third digit\bin\Debug\Problem No.2 Third digit.exe
+D:\Projects\Homework-Operators\Problem No.2 Third digit\bin\Debug\Problem No.2 Third digit.pdb
+D:\Projects\Homework-Operators\Problem No.2 Third digit\obj\Debug\Problem No.2 Third digit.exe
+D:\Projects\Homework-Operators\Problem No.2 Third digit\obj\Debug\Problem No.2 Third digit.pdb

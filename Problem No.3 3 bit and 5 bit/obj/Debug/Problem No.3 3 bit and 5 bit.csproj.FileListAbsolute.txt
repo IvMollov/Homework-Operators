@@ -1,0 +1,5 @@
+D:\Projects\Homework-Operators\Problem No.3 3 bit and 5 bit\bin\Debug\Problem No.3 3 bit and 5 bit.exe.config
+D:\Projects\Homework-Operators\Problem No.3 3 bit and 5 bit\bin\Debug\Problem No.3 3 bit and 5 bit.exe
+D:\Projects\Homework-Operators\Problem No.3 3 bit and 5 bit\bin\Debug\Problem No.3 3 bit and 5 bit.pdb
+D:\Projects\Homework-Operators\Problem No.3 3 bit and 5 bit\obj\Debug\Problem No.3 3 bit and 5 bit.exe
+D:\Projects\Homework-Operators\Problem No.3 3 bit and 5 bit\obj\Debug\Problem No.3 3 bit and 5 bit.pdb

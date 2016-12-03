@@ -1,0 +1,5 @@
+D:\Projects\Homework-Operators\Problem No.5 Within circle outside rect\bin\Debug\Problem No.5 Within circle outside rect.exe.config
+D:\Projects\Homework-Operators\Problem No.5 Within circle outside rect\bin\Debug\Problem No.5 Within circle outside rect.exe
+D:\Projects\Homework-Operators\Problem No.5 Within circle outside rect\bin\Debug\Problem No.5 Within circle outside rect.pdb
+D:\Projects\Homework-Operators\Problem No.5 Within circle outside rect\obj\Debug\Problem No.5 Within circle outside rect.exe
+D:\Projects\Homework-Operators\Problem No.5 Within circle outside rect\obj\Debug\Problem No.5 Within circle outside rect.pdb

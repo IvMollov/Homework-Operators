@@ -1,0 +1,5 @@
+D:\Projects\Homework-Operators\Problem No.8 Even Odd Bitwise\bin\Debug\Problem No.8 Even Odd Bitwise.exe.config
+D:\Projects\Homework-Operators\Problem No.8 Even Odd Bitwise\bin\Debug\Problem No.8 Even Odd Bitwise.exe
+D:\Projects\Homework-Operators\Problem No.8 Even Odd Bitwise\bin\Debug\Problem No.8 Even Odd Bitwise.pdb
+D:\Projects\Homework-Operators\Problem No.8 Even Odd Bitwise\obj\Debug\Problem No.8 Even Odd Bitwise.exe
+D:\Projects\Homework-Operators\Problem No.8 Even Odd Bitwise\obj\Debug\Problem No.8 Even Odd Bitwise.pdb

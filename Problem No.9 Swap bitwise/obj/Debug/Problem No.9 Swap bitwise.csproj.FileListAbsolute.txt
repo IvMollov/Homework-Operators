@@ -1,0 +1,5 @@
+D:\Projects\Homework-Operators\Problem No.9 Swap bitwise\bin\Debug\Problem No.9 Swap bitwise.exe.config
+D:\Projects\Homework-Operators\Problem No.9 Swap bitwise\bin\Debug\Problem No.9 Swap bitwise.exe
+D:\Projects\Homework-Operators\Problem No.9 Swap bitwise\bin\Debug\Problem No.9 Swap bitwise.pdb
+D:\Projects\Homework-Operators\Problem No.9 Swap bitwise\obj\Debug\Problem No.9 Swap bitwise.exe
+D:\Projects\Homework-Operators\Problem No.9 Swap bitwise\obj\Debug\Problem No.9 Swap bitwise.pdb
