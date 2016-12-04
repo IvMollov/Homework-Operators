@@ -1,0 +1,6 @@
+D:\Projects\Homework-Operators\Problem No.13 Flip bits\bin\Debug\Problem No.13 Flip bits.exe.config
+D:\Projects\Homework-Operators\Problem No.13 Flip bits\bin\Debug\Problem No.13 Flip bits.exe
+D:\Projects\Homework-Operators\Problem No.13 Flip bits\bin\Debug\Problem No.13 Flip bits.pdb
+D:\Projects\Homework-Operators\Problem No.13 Flip bits\obj\Debug\Problem No.13 Flip bits.csprojResolveAssemblyReference.cache
+D:\Projects\Homework-Operators\Problem No.13 Flip bits\obj\Debug\Problem No.13 Flip bits.exe
+D:\Projects\Homework-Operators\Problem No.13 Flip bits\obj\Debug\Problem No.13 Flip bits.pdb

@@ -1,0 +1,6 @@
+D:\Projects\Homework-Operators\Problem No.11 Trailing zeros\bin\Debug\Problem No.11 Trailing zeros.exe.config
+D:\Projects\Homework-Operators\Problem No.11 Trailing zeros\obj\Debug\Problem No.11 Trailing zeros.csprojResolveAssemblyReference.cache
+D:\Projects\Homework-Operators\Problem No.11 Trailing zeros\bin\Debug\Problem No.11 Trailing zeros.exe
+D:\Projects\Homework-Operators\Problem No.11 Trailing zeros\bin\Debug\Problem No.11 Trailing zeros.pdb
+D:\Projects\Homework-Operators\Problem No.11 Trailing zeros\obj\Debug\Problem No.11 Trailing zeros.exe
+D:\Projects\Homework-Operators\Problem No.11 Trailing zeros\obj\Debug\Problem No.11 Trailing zeros.pdb

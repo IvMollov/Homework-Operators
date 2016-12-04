@@ -1,0 +1,5 @@
+D:\Projects\Homework-Operators\Problem No. 14 Number of Zeros and Ones\bin\Debug\Problem No. 14 Number of Zeros and Ones.exe.config
+D:\Projects\Homework-Operators\Problem No. 14 Number of Zeros and Ones\bin\Debug\Problem No. 14 Number of Zeros and Ones.exe
+D:\Projects\Homework-Operators\Problem No. 14 Number of Zeros and Ones\bin\Debug\Problem No. 14 Number of Zeros and Ones.pdb
+D:\Projects\Homework-Operators\Problem No. 14 Number of Zeros and Ones\obj\Debug\Problem No. 14 Number of Zeros and Ones.exe
+D:\Projects\Homework-Operators\Problem No. 14 Number of Zeros and Ones\obj\Debug\Problem No. 14 Number of Zeros and Ones.pdb

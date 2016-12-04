@@ -1,0 +1,6 @@
+D:\Projects\Homework-Operators\Problem No.10 Decimal toBinary\bin\Debug\Problem No.10 Decimal toBinary.exe.config
+D:\Projects\Homework-Operators\Problem No.10 Decimal toBinary\bin\Debug\Problem No.10 Decimal toBinary.exe
+D:\Projects\Homework-Operators\Problem No.10 Decimal toBinary\bin\Debug\Problem No.10 Decimal toBinary.pdb
+D:\Projects\Homework-Operators\Problem No.10 Decimal toBinary\obj\Debug\Problem No.10 Decimal toBinary.csprojResolveAssemblyReference.cache
+D:\Projects\Homework-Operators\Problem No.10 Decimal toBinary\obj\Debug\Problem No.10 Decimal toBinary.exe
+D:\Projects\Homework-Operators\Problem No.10 Decimal toBinary\obj\Debug\Problem No.10 Decimal toBinary.pdb

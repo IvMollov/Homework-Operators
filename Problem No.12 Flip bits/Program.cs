@@ -12,24 +12,41 @@ namespace Problem_No._12_Leading_Zeros
         {
             Console.Write("Enter number: ");
             int number = int.Parse(Console.ReadLine());
-            string binaryNumber = Convert.ToString(number, 2);
-            Console.WriteLine(binaryNumber);
-            int bits = sizeof(byte) * 8;
-            
+            TrailingZeros(number);
+
+            Console.ReadLine();
+        }
+        public static void TrailingZeros(int number)
+        {
+            int mask = 32768;
             int count = 0;
-            for (int i = 1; i < bits; i++)
+            StringBuilder sb = new StringBuilder();
+            while (mask > 0)
             {
-                if (number < 0)
+                if ((mask & number) == 0)
+                {
+                    sb.Append("0");
+                }
+                else
+                {
+                    sb.Append("1");
+                }
+                mask = mask >> 1;
+            }
+
+            for (int i = 0; i < sb.Length; i++)
+            {
+                if (char.GetNumericValue(sb[i]) == 0)
+                {
+                    count++;
+                }
+                else
                 {
                     break;
                 }
-                count++;
-
-                number <<= 0;
-                
             }
-            Console.WriteLine("Leading zeros are: " + count);
-            
+
+            Console.WriteLine("Leading zeros of number {0}, binary ({1}) are {2}", number, sb, count);
         }
     }
 }

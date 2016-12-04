@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No.12 Leading Zeros", "Problem No.12 Leading Zeros.csproj", "{D55146F9-E942-4353-BDDE-379361157386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No. 14 Number of Zeros and Ones", "..\Problem No. 14 Number of Zeros and Ones\Problem No. 14 Number of Zeros and Ones.csproj", "{A1577A37-6D2A-406C-B434-B3FB6FA8A3B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No.13 Flip bits", "..\Problem No.13 Flip bits\Problem No.13 Flip bits.csproj", "{31C11762-AAA8-4B31-9E53-B31A58B871F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D55146F9-E942-4353-BDDE-379361157386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55146F9-E942-4353-BDDE-379361157386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55146F9-E942-4353-BDDE-379361157386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55146F9-E942-4353-BDDE-379361157386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1577A37-6D2A-406C-B434-B3FB6FA8A3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1577A37-6D2A-406C-B434-B3FB6FA8A3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1577A37-6D2A-406C-B434-B3FB6FA8A3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1577A37-6D2A-406C-B434-B3FB6FA8A3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C11762-AAA8-4B31-9E53-B31A58B871F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C11762-AAA8-4B31-9E53-B31A58B871F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C11762-AAA8-4B31-9E53-B31A58B871F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C11762-AAA8-4B31-9E53-B31A58B871F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
