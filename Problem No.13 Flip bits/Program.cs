@@ -17,6 +17,7 @@ namespace Problem_No._13_Flip_bits
             int x = ~number;
             string flipBinary = Convert.ToString(x, 2);
             Console.WriteLine("Binary number after the flip is {0}", flipBinary);
+
             Console.ReadLine();
         }
     }

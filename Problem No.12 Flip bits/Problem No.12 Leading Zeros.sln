@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No. 14 Number of Ze
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No.13 Flip bits", "..\Problem No.13 Flip bits\Problem No.13 Flip bits.csproj", "{31C11762-AAA8-4B31-9E53-B31A58B871F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No.6 Position", "..\Problem No.6 Position\Problem No.6 Position.csproj", "{3A21B08D-3276-4074-BDE8-DE65F877E393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No.7 Add and Substract", "..\Problem No.7 Add and Substract\Problem No.7 Add and Substract.csproj", "{D6E51A19-AE62-4B3F-BE09-52BF7674B593}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{31C11762-AAA8-4B31-9E53-B31A58B871F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31C11762-AAA8-4B31-9E53-B31A58B871F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31C11762-AAA8-4B31-9E53-B31A58B871F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A21B08D-3276-4074-BDE8-DE65F877E393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A21B08D-3276-4074-BDE8-DE65F877E393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A21B08D-3276-4074-BDE8-DE65F877E393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A21B08D-3276-4074-BDE8-DE65F877E393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E51A19-AE62-4B3F-BE09-52BF7674B593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E51A19-AE62-4B3F-BE09-52BF7674B593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E51A19-AE62-4B3F-BE09-52BF7674B593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E51A19-AE62-4B3F-BE09-52BF7674B593}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

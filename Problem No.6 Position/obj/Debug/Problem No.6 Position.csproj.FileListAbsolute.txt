@@ -1,0 +1,6 @@
+D:\Projects\Homework-Operators\Problem No.6 Position\bin\Debug\Problem No.6 Position.exe.config
+D:\Projects\Homework-Operators\Problem No.6 Position\obj\Debug\Problem No.6 Position.csprojResolveAssemblyReference.cache
+D:\Projects\Homework-Operators\Problem No.6 Position\bin\Debug\Problem No.6 Position.exe
+D:\Projects\Homework-Operators\Problem No.6 Position\bin\Debug\Problem No.6 Position.pdb
+D:\Projects\Homework-Operators\Problem No.6 Position\obj\Debug\Problem No.6 Position.exe
+D:\Projects\Homework-Operators\Problem No.6 Position\obj\Debug\Problem No.6 Position.pdb

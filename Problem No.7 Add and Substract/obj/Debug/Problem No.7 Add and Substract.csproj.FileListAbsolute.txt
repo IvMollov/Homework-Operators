@@ -1,0 +1,6 @@
+D:\Projects\Homework-Operators\Problem No.7 Add and Substract\bin\Debug\Problem No.7 Add and Substract.exe.config
+D:\Projects\Homework-Operators\Problem No.7 Add and Substract\bin\Debug\Problem No.7 Add and Substract.exe
+D:\Projects\Homework-Operators\Problem No.7 Add and Substract\bin\Debug\Problem No.7 Add and Substract.pdb
+D:\Projects\Homework-Operators\Problem No.7 Add and Substract\obj\Debug\Problem No.7 Add and Substract.csprojResolveAssemblyReference.cache
+D:\Projects\Homework-Operators\Problem No.7 Add and Substract\obj\Debug\Problem No.7 Add and Substract.exe
+D:\Projects\Homework-Operators\Problem No.7 Add and Substract\obj\Debug\Problem No.7 Add and Substract.pdb
